@@ -23,7 +23,6 @@
         "illuminate/cache": "^11.0",
         "illuminate/collections": "^11.0",
         "illuminate/config": "^11.0",
-        "illuminate/console": "^11.0",
         "illuminate/container": "^11.0",
         "illuminate/contracts": "^11.0",
         "illuminate/database": "^11.0",
